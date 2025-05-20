@@ -1,0 +1,5 @@
+Open each of the three .blend files using Blender 2.8 (or later).
+Add any number of lamps to create a final pleasing image. You may like to change world lighting, add background images, or objects to create interesting shadows.
+You may also change the camera angle if you see fit.
+
+Upload your final render set on http://www.reddit.com/r/blenderguru, including the words "Lighting Challenge" in the submission title.
